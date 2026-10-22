@@ -8,5 +8,4 @@ DEOX RAT V2 is a Python-based Windows remote administration tool developed for s
 
 **Security Notice:** Do not run this software on your personal system or upload active bot tokens, credentials, or other secrets to GitHub.
 Developed by DEOX
-
 GitHub: https://github.com/DeoxCore
